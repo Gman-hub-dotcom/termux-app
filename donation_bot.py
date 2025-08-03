@@ -7,7 +7,7 @@ from queue import Queue, Empty
 from datetime import datetime
 
 # Configuration
-MAX_WORKERS = 369
+MAX_WORKERS = 50
 REQUEST_TIMEOUT = 10
 PROXY_FETCH_INTERVAL = 120  # seconds
 REQUESTS_PER_BATCH = 1000
